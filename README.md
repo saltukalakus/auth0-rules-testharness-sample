@@ -53,6 +53,8 @@ Now, just run
 $ npm run test
 ```
 
+PS: Depending on your computer setup you might need to run above command with sudo
+
 Congratulations, you have just deployed, executed, and tested the output of an Auth0 Rule!
 
 
