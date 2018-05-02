@@ -69,7 +69,7 @@ describe('auth0-rules-testharness', function () {
   });
 
 
-  it('should append attribute "baz" to contet with value "hello" - available in result object', function (done) {
+  it('should append attribute "baz" to context with value "hello" - available in result object', function (done) {
 
     var script = fs.readFileSync('./rules/helloWorld.js', 'utf8');
 

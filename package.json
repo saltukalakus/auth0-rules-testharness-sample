@@ -19,7 +19,8 @@
     "testharness"
   ],
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.js",
+    "test2": "mocha testCopyAccessLevelCode.js"
   },
   "dependencies": {
     "auth0-rules-testharness": "^1.0.6",
